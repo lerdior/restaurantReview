@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Info>
+        <Ime>Test</Ime>
+        <Prezime>Test</Prezime>
+        <Mobitel>1231231234</Mobitel>
+        <Email>test@test.test</Email>
+        <Restoran>
+            <Naziv>Test1</Naziv>
+            <OpisRestorana>Test2</OpisRestorana>
+            <Rating>3</Rating>
+            <Recommended>yes</Recommended>
+        </Restoran>
+        <Date>20-05-12-08-03</Date>
+    </Info>
+</root>
